@@ -47,6 +47,10 @@ function App_ex4() {
         {
             setDisplayPersons(personsFilter)
         }
+        else
+        {
+            setDisplayPersons([])
+        }
 
     }
     else

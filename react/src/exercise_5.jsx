@@ -50,6 +50,10 @@ function App_ex5() {
         {
             setDisplayPersons(personsFilter)
         }
+        else
+        {
+            setDisplayPersons([])
+        }
 
     }
     else
